@@ -162,5 +162,5 @@ library(plyr)
 data_tidy <- ddply(data_stat, c("Subject", "Activity"), numcolwise(mean))
 
 # Export data set to csv file to upload on course website
-out_file <- "tidy-data-samsung-galaxy-s-accelerometer-summary.csv"
+out_file <- "tidy-data-samsung-galaxy-s-accelerometer-summary.txt"
 write.csv(data_tidy, out_file, row.names=FALSE)
