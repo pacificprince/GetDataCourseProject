@@ -13,7 +13,7 @@ The code is divided into the following sections,
 1 DOWNLOAD AND UNZIP DATA: Downloads and unzips raw data  
 2 MERGE TRAINING AND TEST DATA SETS: The raw data is divided into training and test data sets. These are merged.  
 3 ASSIGN ACTIVITY LABELS: Labels are assigned to each activity  
-4 APPROPRIATELY LABEL DATA:Labels are assigned to measured parameters  
+4 APPROPRIATELY LABEL DATA:Labels are assigned to each measured/processed feature  
 5 EXTRACT ONLY MEAN AND STD MEASUREMENTS: Mean and standard deviation calculations of measurements are extracted  
 6 CREATE TIDY DATA SET: A data set with the average of each variable for each activity and each subject is created  .
 
