@@ -10,7 +10,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 The code is divided into the following sections,
 
-1 DOWNLOAD AND UNZIP DATA: Downloads and unzips data  
+1 DOWNLOAD AND UNZIP DATA: Downloads and unzips raw data  
 2 MERGE TRAINING AND TEST DATA SETS: The raw data is divided into training and test data sets. These are merged.  
 3 ASSIGN ACTIVITY LABELS: Labels are assigned to each activity  
 4 APPROPRIATELY LABEL DATA:Labels are assigned to measured parameters  
