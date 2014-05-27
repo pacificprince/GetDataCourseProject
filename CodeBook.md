@@ -1,9 +1,6 @@
 ## CodeBook
 
-This document describes the variables in the file `tidy-data-samsung-galaxy-s-accelerometer-summary.csv`. The data is proccessed from the raw data using the following steps:
-
-
-
+This document describes the variables in the file `tidy-data-samsung-galaxy-s-accelerometer-summary.csv` (also see the README file that accompanies this project for more details). The data is proccessed from the raw data using the following steps:
 
 #### DOWNLOAD AND UNZIP DATA 
 Data is assumed to be downloaded in the file `samsung-galaxy-s-accelerometer-data.zip` and is unzipped in the current/working directory. (Code to download a zip copy and unzip its contents have been commented out but can be used if necessary).
