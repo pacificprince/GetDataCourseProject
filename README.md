@@ -10,11 +10,11 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 The code is divided into the following sections,
 
-1 DOWNLOAD AND UNZIP DATA: Downloads and unzips data
-2 MERGE TRAINING AND TEST DATA SETS: The raw data is divided into training and test data sets. These are merged.
-3 ASSIGN ACTIVITY LABELS: Labels are assigned to each activity
-4 APPROPRIATELY LABEL DATA:Labels are assigned to measured parameters
-5 EXTRACT ONLY MEAN AND STD MEASUREMENTS: Mean and standard deviation calculations of measurements are extracted
-6 CREATE TIDY DATA SET: A data set with the average of each variable for each activity and each subject is created.
+1 DOWNLOAD AND UNZIP DATA: Downloads and unzips data  
+2 MERGE TRAINING AND TEST DATA SETS: The raw data is divided into training and test data sets. These are merged.  
+3 ASSIGN ACTIVITY LABELS: Labels are assigned to each activity  
+4 APPROPRIATELY LABEL DATA:Labels are assigned to measured parameters  
+5 EXTRACT ONLY MEAN AND STD MEASUREMENTS: Mean and standard deviation calculations of measurements are extracted  
+6 CREATE TIDY DATA SET: A data set with the average of each variable for each activity and each subject is created  .
 
 See the CodeBook.md file that accompanies this project for more details on the transformation of variables.
